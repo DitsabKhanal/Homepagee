@@ -186,6 +186,11 @@ ul[class=yellow] > li > a:hover {
 	transition: all 0.5s;
 }
 
+ul[class=cyan] > li > a:hover {
+	color: #00FFFF;
+	transition: all 0.5s;
+}
+
 p {
 	font-size: 10px;
 	padding : 10px;
